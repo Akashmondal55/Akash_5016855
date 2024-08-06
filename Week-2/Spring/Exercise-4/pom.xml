@@ -17,6 +17,7 @@
 		<!-- Adding Spring Aop Dependencies as per as Exercise-3-->
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
+            <artifactId>spring-webmvc</artifactId>
             <version>5.3.20</version>
         </dependency>
 		<!--Till here-->

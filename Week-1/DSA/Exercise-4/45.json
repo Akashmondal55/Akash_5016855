@@ -1,0 +1,16 @@
+[
+  {
+    "TRANSACTIONID": "1",
+    "ACCOUNTID": "1",
+    "TRANSACTIONDATE": "03-AUG-24",
+    "AMOUNT": "20000",
+    "TRANSACTIONTYPE": "Deposit"
+  },
+  {
+    "TRANSACTIONID": "2",
+    "ACCOUNTID": "2",
+    "TRANSACTIONDATE": "03-AUG-24",
+    "AMOUNT": "30000",
+    "TRANSACTIONTYPE": "Withdrawal"
+  }
+]
